@@ -49,13 +49,8 @@ You can also Refresh Table View to see which is the progress.
 <img width="1192" height="716" alt="6 -" src="https://github.com/user-attachments/assets/f76a7102-4c9e-46c5-a27a-358cab914a14" />
 STEP 6 - After finishing "Get Data from Cloud", you need to click 4. Push Metadata to Apple Music.
 
-STEP 7 - You can now create a Smart Playlist based on the specific subgenres or instruments you need.
-
-
-
-
-
 <img width="1404" height="1053" alt="7 -" src="https://github.com/user-attachments/assets/34c0e887-261b-43c1-90fe-647bd045ade7" />
+STEP 7 - You can now create a Smart Playlist based on the specific subgenres or instruments you need.
 
 
 
